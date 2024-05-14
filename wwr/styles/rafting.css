@@ -106,7 +106,7 @@ header a {
 }
 
 .history {
-    margin-top: 2rem;
+    display: grid;
     background-color: rgb(233, 230, 230);
     grid-template-columns: 1fr 1fr 1fr;
     border: 1px solid black;
@@ -114,14 +114,24 @@ header a {
 }
 
 .history h2 {
-    background: var(--primary-color);
+    grid-column: 1 / 4;
+    background: rgba(18, 117, 42, 0.575);
     width: 100%;
     text-align: center;
     margin: 0;
     margin-top: 20px;    
 }
-.history p{
-    text-align: center;
+
+.history img {
+    justify-self: center;
+    align-self: center;
+}
+
+h2 {
+    font-family:var(--heading-font);
+    color:var(--primary-color);
+    font-size: 3em;
+    justify-self: center;
 }
 .byu {
     display: grid;
