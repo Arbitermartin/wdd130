@@ -105,11 +105,7 @@ header a {
     
 }
 
-<<<<<<< HEAD
 .history {
-=======
-history {
->>>>>>> 5fdfd0dc99524f2f42899812c9ed2907525e392b
     display: grid;
     background-color: rgb(233, 230, 230);
     grid-template-columns: 1fr 1fr 1fr;
@@ -191,11 +187,7 @@ section img{
     border-radius: 5rem;
 }
 .sociallinks img{
-<<<<<<< HEAD
     border-radius: 12px;
-=======
-    border-radius: 23px;
->>>>>>> 5fdfd0dc99524f2f42899812c9ed2907525e392b
     width: 100px;
     height: 100px;
 }
