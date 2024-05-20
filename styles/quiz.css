@@ -6,6 +6,9 @@
 body{
     background-color: whitesmoke;
 }
+li{
+    list-style: none;
+}
 .container{
     display: flex;
     flex-direction: column;
