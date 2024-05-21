@@ -33,20 +33,20 @@ body{
     width: 100%;
 }
 input[type="text"].form-control{
-    width:400px;
+    width:500px;
     width: 400px;
     height: 30px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 textarea{
-    width: 400px;
+    width: 500px;
     height: 60px;
     margin-top: 1rem;
     margin-bottom: 1rem 
 }
 select{
-    width: 400px;
+    width: 500px;
     height: 30px;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -54,7 +54,7 @@ select{
 .btn-1{
     display: flex;
     margin: 0 auto;
-    width: 400px;
+    width: 300px;
     padding: 0.5rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -67,13 +67,13 @@ h1{
     margin-top: 2rem;
 }
 input[type="number"].form-control{
-    width: 400px;
+    width: 500px;
     height: 30px;
     margin-top: 0rem;
     margin-bottom: 1rem;
 }
 button[type="submit"].form-control{
-    width: 400px;
+    width: 500px;
     height: 40px;
     margin-top: 0.6rem;
     margin-bottom: 1rem;
