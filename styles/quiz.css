@@ -33,13 +33,13 @@ body{
     width: 100%;
 }
 input[type="text"].form-control{
-    width: 500px;
+    width: 400px;
     height: 30px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 textarea{
-    width: 500px;
+    width: 400px;
     height: 60px;
     margin-top: 1rem;
     margin-bottom: 1rem 
