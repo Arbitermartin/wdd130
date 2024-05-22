@@ -310,13 +310,13 @@ input[type="checkbox"] {
 footer {
     display: flex;
     flex-direction: row;
-    background-color: var(--nav-background-color);
+    background-color: lightgray;
     margin-left: 0px;    
 }
 
 footer p {
     font-weight: bold;
     flex: 5;
-    color: var(--accent2-color);
+    color: black;
     padding-left: 380px;
 }
