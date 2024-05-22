@@ -317,6 +317,6 @@ footer {
 footer p {
     font-weight: bold;
     flex: 5;
-    color: black;
+    color: yellow;
     padding-left: 380px;
 }
