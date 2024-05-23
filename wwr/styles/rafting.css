@@ -306,8 +306,11 @@ input[type="checkbox"] {
     width: 20px;
     height: 20px;
 }
-
+.wire{
+    margin-right: 2rem;
+}
 footer {
+    height: 100px;
     display: flex;
     flex-direction: row;
     background-color: lightgray;
